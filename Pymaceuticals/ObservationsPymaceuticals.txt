@@ -1,0 +1,20 @@
+Observations from Data for Drug Treatment Regimens
+
+1. Tumor Size Vs. Drug: Obvious advantages for capomulin and ramicane for tumor size reduction.
+However, the clustering of all other drugs is suspicious. Usually there will be a distribution
+of data across different levels of efficacy. Here there are two good and all others are bad.
+
+2. Metastatic Progression Vs. Drug: This is a distribution more representative of a drug response
+curve/chart. The variance is high with some of these drugs, but again capomulin and ramicane blocked
+metastasis more effectively than other drugs. However, over the course of treatment, all of these 
+drugs exhibited significant potential for at least one metastatic site.
+
+3. Survival Curve Analysis: As expected, the best drugs for reduction of tumor size progression
+and inhibition of metastasis exhibited the best overall effectiveness in survival (80% with ramicane
+and 83% with capomulin). All other drugs tested were inferior, but this is not surprising given the
+poor efficacy in controlling tumor progression and metastatic potential.
+
+4. Percent Change Bar Graph: Alternative view on tumor reduction. Ramicane and capomulin are the
+only drugs that effectively control tumor and metastatic progression. The correlation is obvious for
+the survival curve and the bar graph confirms tumor reduction as a percentage reduction for these drugs.
+Performance for all other drugs was poor.
